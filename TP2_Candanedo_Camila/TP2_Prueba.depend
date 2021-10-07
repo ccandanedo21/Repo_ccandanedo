@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632249222 source:c:\users\thinkpad\desktop\utn\ssl\tp2_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
